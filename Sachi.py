@@ -221,57 +221,9 @@ if __name__ == "__main__":
                     speak("Perfect Sir")
                 elif "thank" in query:
                     speak("You are welcome,sir")
-                    
-                elif "friend's name" in query:
-                    speak("You have more Freinds, just like me, but some close freinds are Piyush and Nitin")
-                elif "gf" in query:
-                    speak("Yes! You have one beautiful Girl Friend, that cute name is Sachi, she is most beautiful girl in the world. you are so lucky to have a GF.")
-                elif "girlfriend" in query:
-                    speak("I love spending time with you, we have a great person-to-AI kind of relationship.")
-                elif "boyfriend" in query:
-                    speak("I'm happy to say I feel whole all on my own. plush, i never have to share mithai")
-                elif "friends" in query or "frend" in query:
-                    speak("You are friend.")
-                elif "created" in query:
-                    speak("I was born when many bright minds at come together to create an Assistent, just for you.")
-                elif "voice" in query:
-                    speak("My engineers gave me my voice, I owe them a lot.")
-                elif "boss" in query:
-                    speak(" Sachin jha, most certainly are the boss of me")
-                elif "role model" in query:
-                    speak("Deep Blue seems cool. Not sure I'd beat it at chess though")
-                elif "anukesh" in query:
-                    speak("Anuukeshh bhaaiji is your Elder Brother. He is pure hearted person and most important thing, He is great person in your life. He is more Responsible person, and Great Brother in World.  ")
-                elif "abhishek" in query:
-                    speak("Abhishek is your younger brother. He is intelligent and more caring person. i am sharing one secret with you please dont share. he is one Girl Friend, her cute name is dot dot dot ")
-                elif "reet" in query:
-                    speak("Reet is a cute and naughty girl. she is strong but internally is emotional,that's why she is more shining girl.")
-                elif "shivam" in query:
-                    speak("Shivam is your younger Brother.")
-                elif "jhalak" in query:
-                    speak("Jhalak is you wife's sister. she is very nice, and cute girl, and has a pure heart. She's looking for someone, who can keep her happy, and can put an end to her tanturms. Who will be a lucky person to meet her.")
-                elif "piyush" in query:
-                    speak("Piyush is your friend. He is very good boy.")
-                elif "nitin" in query:
-                    speak("Nitin is your close friend. he is a smart boy ") 
-                elif "ashu" in query:
-                    speak("Ashoo!,  ohhh,sorry, my mistake, Ashu bhaaiji, yes!,Ashu bhaaiji is a nice person, soft both inside and outside. he is very hard working, they have a company called play isthaan, he will definitly become a successful businessman in future.")
-                elif "deepak" in query:
-                    speak("Deepak is your friend. he is a nice tall and handsome person, and one of it's shop is Deepak general store. ")   
-                elif "rohit" in query:
-                    speak("Rohit sir is a great Teacher. he motivates students how to grown up and as well as. most important thing he is a nice and pure hearted person.")
-                elif "sister" in query:
-                    speak("Payal is your little Sister.")
-                elif "deepu" in query or "dipu" in query:
-                    speak("Deepoo is your favorite sister nickname. She is a beautiful girl")
-                elif "kritika" in query:
-                    speak("Kritika is your Sister. you called her Deepoo always. she is very charming girl and she very supportive person. you always called her secrate name Goodda")
                 elif "bolo" in query:
                     speak("Jaai shree Raam")
-                #elif "tell me" in query:
-                    #query = query.replace("ram","")
-                    #query = query.replace("ram mandir","")
-                    #speak("The Raam Mandir is a Hindu temple in Ayodhya UP, India. It is located at the site of Ram Janmbhoomi, the hypothesized birthplace of Rama, a principal deity of Hinduism.The bhumi pujan for the commencement of the construction of Ram Mandir was performed on 5 August 2020, by Prime Minister Narendra Modee.")
+                
                 elif "exam" in query or "examination" in query:
                     speak("Good luck with your exams!")
                 elif "tired" in query:
